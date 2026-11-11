@@ -1,8 +1,8 @@
-# RideOn Client
+# RideOn Frontend
 
 React + Vite + Tailwind CSS front end for the RideOn bike rental system (public site, customer dashboard and admin dashboard).
 
-It needs the RideOn API (the separate server repository) running.
+It needs the RideOn API (the separate backend repository) running.
 
 ```bash
 npm install
